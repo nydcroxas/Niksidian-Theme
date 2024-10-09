@@ -1,0 +1,21 @@
+{
+  "name": "niksidian",
+  "displayName": "Niksidian",
+  "description": "Theme for Niks.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Niksidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Niksidian-color-theme.json"
+      }
+    ]
+  }
+}
